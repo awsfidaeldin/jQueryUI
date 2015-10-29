@@ -1,0 +1,73 @@
+	.content 
+    {
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+	body
+    {
+        background-color:#E1EDEB; 
+    }
+
+    h1
+    {
+    	text-align: center;
+    	color: black;
+    }
+
+    .ui-menu 
+    { 
+    	width: 150px; 
+    }
+
+    .left
+    {
+
+        width:350px;
+        display: inline-block; 
+        font-family: Garamond, serif;
+        font-size: 16px;
+        color: grey; 
+        text-align: left;
+    }
+
+.right
+    { 
+        width:650px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+
+   footer p
+   {
+   	text-align: center;
+   	color: black;
+   }
+
+  /* #draggable
+   { 
+   	width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; 
+   }
+
+  #droppable 
+  { 
+  	width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px;
+  }*/
+
+  .interaction
+  {
+	  	width: 100%;
+	    margin: 0 auto;
+	     margin-top: 40px;
+  }
+
+  #draggable { width: 150px; height: 150px; padding: 0.5em; }
+
+  img.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+}
